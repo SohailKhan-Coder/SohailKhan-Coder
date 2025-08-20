@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **- Flutter, Dart, Firebase, Supabase, REST APIs - How to build & publish apps to Play Store**
 
-- 📫 How to reach me **sohailkhan24552@gmail.com Linkedin https://www.linkedin.com/in/sohail-khan-047519369/**
+- 📫 How to reach me **sohailkhattak6566@gmail.com Linkedin https://www.linkedin.com/in/sohail-khan-047519369/**
 
 - ⚡ Fun fact **- I debug faster with **tea ☕ than coffee** 😂**
 
